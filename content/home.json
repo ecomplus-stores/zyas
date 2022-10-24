@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
